@@ -21,6 +21,7 @@ RUN \
  apt-get update && \
  apt-get install -y \
 	i965-va-driver \
+  libasound \
 	libexpat1 \
 	libgl1-mesa-dri \
 	libglib2.0-0 \
